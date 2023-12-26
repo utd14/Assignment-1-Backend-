@@ -2,6 +2,7 @@
 This is a simple registration / login system created using Node.js, PostgreSQL and Express. Follow the instructions below to set up and run the application.
 
 **Note: I used Visual Studio Code and pgAdmin 4 to implement the system.**
+\
 [Download link](https://drive.google.com/file/d/1ZNYbUdeuSXCHerH4_6fjrTI5hiphnGt8/view?usp=sharing) to a version with node modules.
 
 ## Setup Instruction
